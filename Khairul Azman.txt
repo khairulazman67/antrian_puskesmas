@@ -1,0 +1,29 @@
+Sistem Antrian Puskesmas Muara Satu Kota Lhokseumawe
+Nama 		: 
+- Khairul Azman
+- Rahmahtillah
+Link website 	: http://puskesmasmuarasatu.epizy.com/
+Link video yt	: https://youtu.be/raW7-Gez1JE
+
+Akun Petugas	: 
+-Petugas Inti
+ id Petugas	: PET01
+ Password	: Pet012345678
+
+Petugas Antrian
+ id Petugas	: PET02
+ Password	: PET02
+
+Petugas Pendaftaran 
+ id Petugas	: PET03
+ Password	: PET03
+
+Akun Pasien 	:
+id Pasien	: PAS00001
+Password	: PAS00001
+
+id Pasien	: PAS00002
+Password	: PAS00002
+
+id Pasien	: PAS00003
+Password	: PAS00003

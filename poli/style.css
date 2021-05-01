@@ -1,0 +1,39 @@
+body{
+	font-family: sans-serif;
+	background: black;
+}
+
+.tulisan_login{
+	font-family: sans-serif;
+	text-align: center;
+	font-size: 20pt;
+}
+
+.kotaklogin{
+	width:350px;
+	margin: 80px auto;
+	padding: 30px 20px;
+	background: white;
+}
+
+label{
+	font-size: 11pt;
+}
+
+.formlogin{
+	box-sizing: border-box;
+	width: 100%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.tombollogin{
+	background: #46DE4B;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
